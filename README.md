@@ -1,1 +1,1 @@
-# Star-Shape-Detector
+# Star Shape Detector
